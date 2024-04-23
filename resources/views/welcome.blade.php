@@ -29,7 +29,7 @@
             </div>
             <div class="col-lg-6">
                 <h1 class="display-5 fw-bold lh-1 mb-3">
-                    Abdel <span class="text-primary">ChatX</span>
+                    Chat <span class="text-primary">App</span>
                 </h1>
                 <p class="lead">
                     Abdel ChatX is a simple chat application that allows you to chat with your friends and family in
